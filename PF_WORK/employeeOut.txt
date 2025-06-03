@@ -1,0 +1,2 @@
+Name: Ms.Momina, Salary: 800000
+Name: Ms.Kainat, Salary: 700000

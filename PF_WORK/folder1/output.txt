@@ -1,0 +1,18 @@
+Employee ID: 1
+Name: Momina Imran
+Designation: Developer
+Date of Joining: 2024-02-01
+Salary: 300000
+**********************
+Employee ID: 2
+Name: Sana Khan
+Designation: ui-ux designer
+Date of Joining: 2022-01-12
+Salary: 60000
+**********************
+Employee ID: 3
+Name: Zain Ali
+Designation: manager
+Date of Joining: 2025-03-25
+Salary: 55000
+**********************
